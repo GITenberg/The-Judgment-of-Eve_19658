@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3004
     wikipedia: http://en.wikipedia.org/wiki/May_Sinclair
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19658#The-Judgment-of-Eve
 gutenberg_issued: '2006-10-29'
 gutenberg_type: Text
 identifiers:
